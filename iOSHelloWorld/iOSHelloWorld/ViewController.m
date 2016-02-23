@@ -24,6 +24,8 @@
     label.textColor = [UIColor blackColor];
     label.text = @"Hello World";
     
+    //label.text = @"Hello World 2";
+    
     [self.view addSubview:label];
 }
 
